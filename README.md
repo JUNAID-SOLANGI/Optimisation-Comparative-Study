@@ -1,6 +1,7 @@
 # 🚀 Why Walk When You Can Teleport? 
 
 ## A Comparative Journey Through Optimization Algorithms in Linear Regression
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23ba1077-3f1c-4ac6-9797-52f1ec7282d1" />
 
 <div align="center">
 
